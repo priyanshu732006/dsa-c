@@ -1,0 +1,1 @@
+printf("enter the no");
